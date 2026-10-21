@@ -1,0 +1,7 @@
+myenv/
+myenv312/
+ecommerce-dataset/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.env
